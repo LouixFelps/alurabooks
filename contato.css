@@ -30,7 +30,7 @@
   text-align: center;
     font-family: var(--fonte-principal);
     color: var(--azul-escuro);
-    background: url("../img/Vector.svg") no-repeat;
+    background: url("Vector.svg") no-repeat;
   background-position: 0.1em;
 }
 
